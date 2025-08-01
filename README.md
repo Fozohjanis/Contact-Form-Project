@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contact Form Application using Tkinter
 
 This is a simple desktop-based contact form application developed using Python and Tkinter.
@@ -15,3 +16,6 @@ This is a simple desktop-based contact form application developed using Python a
 ## Files:
 - contact_form.py - Main application file
 - contacts.csv - Stores submitted contact data
+=======
+# Contact-Form-Project
+>>>>>>> f026ea6fc02becd1b9f14f2beccb0265f9614c2a
